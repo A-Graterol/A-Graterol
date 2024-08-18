@@ -22,8 +22,3 @@ Aquí están algunas de las tecnologías con las que trabajo:
 
 !LinkedIn www.linkedin.com/in/andrés-graterol-1b8736234
 !Correo andresaga47@gmail.com
-
------
-Credits: [xiaoluoboding](https://github.com/xiaoluoboding)
-
-Last Edited on: 30/08/2020
