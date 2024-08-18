@@ -1,7 +1,7 @@
 # 💫 Sobre mí:
 ¡Hola, soy Andrés Graterol! 👋<br>Sobre mí<br>🚀 Soy un apasionado programador joven con un hambre insaciable de conocimiento y una pasión por la programación. A mis 25 años, estoy decidido a destacar entre mis pares y contribuir significativamente en proyectos emocionantes.<br><br>¿Qué me motiva?<br>Aprender y crecer: Siempre estoy buscando oportunidades para aprender nuevas tecnologías y ampliar mis habilidades.<br>Participar en proyectos impactantes: Me emociona colaborar en proyectos que marquen la diferencia y tengan un impacto real.<br>Configuración y edición: Además de la programación, tengo experiencia en configuración de sistemas y edición gráfica.<br>
 
-## 🌐 Sociales:
+## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/andrés-graterol-1b8736234) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@aklo24) 
 
 # 💻 Tecnológica:<br>
